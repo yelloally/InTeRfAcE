@@ -1,0 +1,5 @@
+/Users/yellobunny/Projects/c_sharp/interface_poli/obj/Debug/net7.0/interface_poli.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/interface_poli/obj/Debug/net7.0/interface_poli.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/interface_poli/obj/Debug/net7.0/interface_poli.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/interface_poli/obj/Debug/net7.0/interface_poli.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/interface_poli/obj/Debug/net7.0/interface_poli.csproj.CoreCompileInputs.cache
